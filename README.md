@@ -10,3 +10,5 @@
 
 Because we are using & operator, we are delegating this process to background. 
 In order to stop running processes you can use `kill -9 {process_id}` like `kill -9 55494`
+
+You can run `docker-compose up` for prometheus and consul.

@@ -3,19 +3,19 @@
     {
       "id": "api1",
       "name": "api",
-      "address": "127.0.0.1",
+      "address": "host.docker.internal",
       "port": 8080
     },
     {
       "id": "api2",
       "name": "api",
-      "address": "127.0.0.1",
+      "address": "host.docker.internal",
       "port": 8081
     },
     {
       "id": "api3",
       "name": "api",
-      "address": "127.0.0.1",
+      "address": "host.docker.internal",
       "port": 8082
     }
   ]
